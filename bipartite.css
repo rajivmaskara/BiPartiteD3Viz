@@ -1,0 +1,30 @@
+
+.qv-object-bipartite div.qv-object-content-container{
+	width:1200px;
+	margin:100px auto;
+}
+.qv-object-bipartite svg text{
+	font-size:12px;
+}
+.qv-object-bipartite rect{
+	shape-rendering:crispEdges;
+}
+/*
+.qv-object-com-qliktech-simpletable td, th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-com-qliktech-simpletable td.numeric {
+	text-align: right;
+}
+.qv-object-com-qliktech-simpletable button {
+	width: 100%;
+}
+*/

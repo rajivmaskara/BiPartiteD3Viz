@@ -1,0 +1,9 @@
+{
+	"name" : "BiPartite Graph",
+	"description" : "A bipartite graph that uses two dimensions",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Rajiv"
+}
